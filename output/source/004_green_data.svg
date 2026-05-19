@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <rect width="1080" height="1440" fill="#0f172a"/>
+  <rect x="60" y="60" width="960" height="130" rx="24" fill="#00a86b"/>
+  <text x="540" y="145" text-anchor="middle" fill="#fff" font-size="54" font-weight="800" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">投放复盘数据卡片版</text>
+
+  <g font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">
+    <rect x="80" y="250" width="290" height="220" rx="20" fill="#111827" stroke="#00a86b" stroke-width="2"/>
+    <text x="110" y="320" fill="#9ca3af" font-size="30">私信率</text>
+    <text x="110" y="390" fill="#ecfdf5" font-size="64" font-weight="800">3.6%</text>
+
+    <rect x="395" y="250" width="290" height="220" rx="20" fill="#111827" stroke="#00a86b" stroke-width="2"/>
+    <text x="425" y="320" fill="#9ca3af" font-size="30">完播率</text>
+    <text x="425" y="390" fill="#ecfdf5" font-size="64" font-weight="800">41%</text>
+
+    <rect x="710" y="250" width="290" height="220" rx="20" fill="#111827" stroke="#00a86b" stroke-width="2"/>
+    <text x="740" y="320" fill="#9ca3af" font-size="30">线索成本</text>
+    <text x="740" y="390" fill="#ecfdf5" font-size="64" font-weight="800">-28%</text>
+
+    <rect x="80" y="520" width="920" height="560" rx="24" fill="#111827"/>
+    <text x="120" y="600" fill="#34d399" font-size="38" font-weight="800">问题定位</text>
+    <text x="120" y="660" fill="#f3f4f6" font-size="34">错误：封面钩子偏泛，目标客群识别弱。</text>
+    <text x="120" y="715" fill="#f3f4f6" font-size="34">修复：改为“人群+痛点+可见结果”首屏公式。</text>
+    <text x="120" y="790" fill="#34d399" font-size="38" font-weight="800">下一轮动作</text>
+    <text x="120" y="850" fill="#f3f4f6" font-size="34">1) A/B 测试两版封面  2) 压缩到 5 页内</text>
+    <text x="120" y="905" fill="#f3f4f6" font-size="34">3) 末页保留单一 CTA（评论关键词）</text>
+  </g>
+
+  <rect x="60" y="1260" width="960" height="110" rx="18" fill="#00a86b"/>
+  <text x="540" y="1330" text-anchor="middle" fill="#fff" font-size="44" font-weight="800" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">复盘可直接用于周报 / 月报 / 客户汇报</text>
+</svg>
