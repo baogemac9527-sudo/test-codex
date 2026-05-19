@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <rect width="1080" height="1440" fill="#0F0F10"/>
+  <rect x="0" y="220" width="1080" height="520" fill="#16181D"/>
+  <rect x="0" y="920" width="1080" height="520" fill="#111318"/>
+  <rect x="60" y="80" width="960" height="40" fill="#E53935"/>
+  <rect x="60" y="1260" width="960" height="60" fill="#E53935"/>
+
+  <text x="70" y="180" fill="#FFFFFF" font-size="64" font-weight="700" font-family="Arial, PingFang SC, Microsoft YaHei">本地商家发图文没客户？</text>
+  <text x="70" y="260" fill="#FFCDD2" font-size="44" font-weight="600" font-family="Arial, PingFang SC, Microsoft YaHei">先改这4页：错误和修复同页</text>
+
+  <text x="90" y="460" fill="#FFFFFF" font-size="42" font-family="Arial, PingFang SC, Microsoft YaHei">• 错误1：先讲自己  修复：先讲用户痛点</text>
+  <text x="90" y="580" fill="#FFFFFF" font-size="42" font-family="Arial, PingFang SC, Microsoft YaHei">• 错误2：页页重复  修复：每页一个新动作</text>
+  <text x="90" y="700" fill="#FFFFFF" font-size="42" font-family="Arial, PingFang SC, Microsoft YaHei">• 错误3：CTA过多   修复：只留1个动作</text>
+
+  <text x="70" y="1304" fill="#FFFFFF" font-size="40" font-weight="700" font-family="Arial, PingFang SC, Microsoft YaHei">评论「诊断」领取：4页转化模板</text>
+</svg>

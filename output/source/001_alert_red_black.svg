@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <rect width="1080" height="1440" fill="#121214"/>
+  <rect x="0" y="0" width="1080" height="170" fill="#e53935"/>
+  <text x="64" y="110" fill="#ffffff" font-size="54" font-weight="700" font-family="Arial, PingFang SC, Microsoft YaHei">本地商家图文转化结构</text>
+  <rect x="60" y="230" width="960" height="280" fill="#FFFFFF" fill-opacity="0.9"/>
+  <rect x="60" y="560" width="960" height="280" fill="#FFFFFF" fill-opacity="0.9"/>
+  <rect x="60" y="890" width="960" height="280" fill="#FFFFFF" fill-opacity="0.9"/>
+  <text x="90" y="360" fill="#222" font-size="46" font-family="Arial, PingFang SC, Microsoft YaHei">错误1 + 修复1</text>
+  <text x="90" y="690" fill="#222" font-size="46" font-family="Arial, PingFang SC, Microsoft YaHei">错误2 + 修复2</text>
+  <text x="90" y="1020" fill="#222" font-size="46" font-family="Arial, PingFang SC, Microsoft YaHei">错误3 + 修复3</text>
+  <rect x="0" y="1300" width="1080" height="140" fill="#e53935"/>
+  <text x="64" y="1388" fill="#ffffff" font-size="44" font-weight="700" font-family="Arial, PingFang SC, Microsoft YaHei">错误+修复同页（4-5页）</text>
+</svg>
