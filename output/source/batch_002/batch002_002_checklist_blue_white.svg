@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <rect width="1080" height="1440" fill="#f5f9ff"/>
+  <rect x="50" y="60" width="980" height="130" rx="24" fill="#1565c0"/>
+  <text x="540" y="145" text-anchor="middle" fill="#fff" font-size="54" font-weight="800" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">教培图文私信转化清单</text>
+
+  <rect x="70" y="240" width="940" height="1000" rx="28" fill="#fff" stroke="#d9e7ff" stroke-width="4"/>
+
+  <g font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#1f2937">
+    <text x="110" y="320" font-size="40" font-weight="800">☐ 错误：封面讲机构，不讲家长焦虑</text>
+    <text x="140" y="372" font-size="34" fill="#0d47a1">☑ 修复：首屏“家长人群 + 学段痛点 + 可见结果”</text>
+
+    <line x1="110" y1="430" x2="970" y2="430" stroke="#e5e7eb" stroke-width="3"/>
+
+    <text x="110" y="510" font-size="40" font-weight="800">☐ 错误：第 2~3 页重复“要专业”</text>
+    <text x="140" y="562" font-size="34" fill="#0d47a1">☑ 修复：每页只放 1 个可执行动作 + 1 个判断标准</text>
+
+    <line x1="110" y1="620" x2="970" y2="620" stroke="#e5e7eb" stroke-width="3"/>
+
+    <text x="110" y="700" font-size="40" font-weight="800">☐ 错误：结尾同时要点赞/关注/私信</text>
+    <text x="140" y="752" font-size="34" fill="#0d47a1">☑ 修复：单一 CTA（评论“诊断”）+ 交付物 + 时效</text>
+
+    <line x1="110" y1="810" x2="970" y2="810" stroke="#e5e7eb" stroke-width="3"/>
+
+    <text x="110" y="890" font-size="40" font-weight="800">☐ 错误：页数太多，信息松散</text>
+    <text x="140" y="942" font-size="34" fill="#0d47a1">☑ 修复：压缩到 4~5 页，错误与修复同页呈现</text>
+  </g>
+
+  <rect x="70" y="1260" width="940" height="110" rx="20" fill="#1565c0"/>
+  <text x="540" y="1330" text-anchor="middle" fill="#fff" font-size="42" font-weight="800" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">模板适配：教培 / 美业 / 家装 / 本地生活</text>
+</svg>
