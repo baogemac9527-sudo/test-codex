@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <rect width="1080" height="1440" fill="#faf5ff"/>
+  <rect x="0" y="0" width="1080" height="170" fill="#7b1fa2"/>
+  <text x="540" y="114" text-anchor="middle" fill="#fff" font-size="56" font-weight="800" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">高客单行业：反差对比版</text>
+
+  <rect x="70" y="240" width="450" height="760" rx="24" fill="#fff" stroke="#e9d5ff" stroke-width="3"/>
+  <rect x="560" y="240" width="450" height="760" rx="24" fill="#fff" stroke="#d1fae5" stroke-width="3"/>
+
+  <text x="295" y="315" text-anchor="middle" fill="#b91c1c" font-size="40" font-weight="800" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">旧版（低转化）</text>
+  <text x="785" y="315" text-anchor="middle" fill="#047857" font-size="40" font-weight="800" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">新版（高转化）</text>
+
+  <g font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="30">
+    <text x="95" y="390" fill="#374151">✖ 首屏空泛："我们很专业"</text>
+    <text x="95" y="450" fill="#374151">✖ 中间页重复，没有方法步骤</text>
+    <text x="95" y="510" fill="#374151">✖ 末页 CTA 过多，动作分散</text>
+    <text x="95" y="570" fill="#374151">✖ 没有交付承诺与时效</text>
+
+    <text x="585" y="390" fill="#065f46">✔ 首屏点名人群与痛点场景</text>
+    <text x="585" y="450" fill="#065f46">✔ 每页一个动作，配判断标准</text>
+    <text x="585" y="510" fill="#065f46">✔ 末页只留“评论关键词”</text>
+    <text x="585" y="570" fill="#065f46">✔ 给出交付物 + 24h 时效</text>
+  </g>
+
+  <rect x="70" y="1040" width="940" height="210" rx="20" fill="#f3e8ff"/>
+  <text x="100" y="1110" fill="#4c1d95" font-size="34" font-weight="800" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">适用行业</text>
+  <text x="100" y="1160" fill="#312e81" font-size="32" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">法律咨询 / 医疗健康 / 高端家装 / 企业服务</text>
+  <text x="100" y="1210" fill="#312e81" font-size="32" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">目标：高客单索资内容，提升信任和咨询转化</text>
+
+  <rect x="70" y="1270" width="940" height="100" rx="18" fill="#7b1fa2"/>
+  <text x="540" y="1335" text-anchor="middle" fill="#fff" font-size="42" font-weight="800" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">同主题可快速扩展 20 条变体</text>
+</svg>
